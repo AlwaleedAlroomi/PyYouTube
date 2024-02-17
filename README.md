@@ -8,17 +8,17 @@ This project aims to create a Python application with a QT6 GUI for automated Yo
 
 **1. Requirements Gathering and Analysis (requirements, analysis)**
 
-- [ ] Identify and document user requirements.
-- [ ] Analyze feasibility based on the collected requirements.
+- [x] Identify and document user requirements.
+- [x] Analyze feasibility based on the collected requirements.
 
-**2. Design GUI using QT6 (design, development)**
+**2. Design GUI using QT5 (design, development)**
 
-- [ ] Design a user-friendly, intuitive mockup of the UI.
-- [ ] Create a functional prototype of the GUI using QT6.
+- [x] Design a user-friendly, intuitive mockup of the UI.
+- [x] Create a functional prototype of the GUI using QT5.
 
 **3. Develop YouTube Video Uploader (development, integration)**
 
-- [ ] Write Python code to interact with the YouTube API for video uploads.
+- [x] Write Python code to interact with the YouTube API for video uploads.
 - [ ] Integrate the video uploader with the designed GUI.
 
 **4. Implement Video Details Feature (development, integration)**
